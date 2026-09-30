@@ -1,0 +1,10 @@
+torch
+diffusers
+transformers
+accelerate
+gradio
+pillow
+requests
+kokoro
+soundfile
+edge-tts
